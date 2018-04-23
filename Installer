@@ -41,8 +41,8 @@ rpcallowip=127.0.0.1
 testnet=0
 masternode=1
 masternodesoftlock=1
-masternodeprivkey=YOURGENKEY" > /root/.Motile/Motile.conf
-nano /root/.Motile/Motile.conf
+masternodeprivkey=YOURGENKEY" > .Motile/Motile.conf
+nano .Motile/Motile.conf
 
 
 #Start Server
