@@ -30,6 +30,9 @@ sleep 2
 wget https://github.com/ecs87/Motile/releases/download/1/Motiled
 chmod 700 Motiled
 
+#Start Server
+echo "Starting Wallet"
+./Motiled -deamon
 
 #Stop Server
 echo "Stopping Wallet"
