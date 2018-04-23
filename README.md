@@ -1,6 +1,6 @@
-# MotileCoin Donate MTaxNGgc4vueM66mxV4qfrJhuekGNJj7Ds      #
-# Credit to ecs87 for original guide!                       #
-# Ecs87 Donate MQXiKbw5VEantHUCgiUtkN7sQeefzWbXzZ           #
+MotileCoin Donate MTaxNGgc4vueM66mxV4qfrJhuekGNJj7Ds     
+Credit to ecs87 for original guide!                      
+Ecs87 Donate MQXiKbw5VEantHUCgiUtkN7sQeefzWbXzZ          
 
 
 
