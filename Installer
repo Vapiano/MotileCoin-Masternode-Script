@@ -30,11 +30,13 @@ sleep 2
 wget https://github.com/ecs87/Motile/releases/download/1/Motiled
 chmod 700 Motiled
 
+
 #Stop Server
 echo "Stopping Wallet"
 sleep 2
 ./Motiled stop 
 
+touch .Motile/Motile.conf
 
 #Write MotileCoin Config
 echo "rpcuser=masternode
