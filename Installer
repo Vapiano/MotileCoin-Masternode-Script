@@ -36,6 +36,7 @@ echo "Stopping Wallet"
 sleep 2
 ./Motiled stop 
 
+mkdir .Motile
 touch .Motile/Motile.conf
 
 #Write MotileCoin Config
