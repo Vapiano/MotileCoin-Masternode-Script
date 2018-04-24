@@ -25,10 +25,11 @@ echo "Installing Wallet"
 sleep 2
 mkdir MotileCore && cd MotileCore && wget https://github.com/ecs87/Motile/releases/download/1/Motiled
 chmod 700 Motiled
+cd
 
-#Start Server
-echo "Starting Wallet"
-./Motiled -daemon
+#Make Config file
+mkdir .Motile
+touch .Motile/Motile.conf
 
 #Write MotileCoin Config
 echo "rpcuser=masternode
