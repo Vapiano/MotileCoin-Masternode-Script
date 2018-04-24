@@ -48,7 +48,7 @@ nano .Motile/Motile.conf
 
 #Start Server
 echo "Starting Wallet"
-./Motiled -daemon
+MotileCoin-Masternode-Script/MotileCore/./Motiled -daemon
 
 
 # Wait for the server to come up
